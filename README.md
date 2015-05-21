@@ -13,7 +13,7 @@
       2) As "attacking" circle float onto the screen, "capture" other circles that are smaller than yours until your circle 
         becomes large enough that you can "capture" every circle on the screen. 
       3) Right-click to access the menu. Options on the menu include:
-         1) Next Level
-         2) New Game
+         1) New Game
+         2) Next Level
          3) Quit
   
